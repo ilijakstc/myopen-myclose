@@ -1,0 +1,3 @@
+/Users/ilijakostic/Documents/FH/Sem2/BS/myopen-myclose/build/CMakeFiles/Myopne_Myclose.dir
+/Users/ilijakostic/Documents/FH/Sem2/BS/myopen-myclose/build/CMakeFiles/edit_cache.dir
+/Users/ilijakostic/Documents/FH/Sem2/BS/myopen-myclose/build/CMakeFiles/rebuild_cache.dir
